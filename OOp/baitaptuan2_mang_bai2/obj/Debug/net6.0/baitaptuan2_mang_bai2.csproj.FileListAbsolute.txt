@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.AssemblyInfo.cs
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\bin\Debug\net6.0\baitaptuan2_mang_bai2.exe
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\bin\Debug\net6.0\baitaptuan2_mang_bai2.deps.json
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\bin\Debug\net6.0\baitaptuan2_mang_bai2.runtimeconfig.json
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\bin\Debug\net6.0\baitaptuan2_mang_bai2.dll
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\bin\Debug\net6.0\baitaptuan2_mang_bai2.pdb
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.dll
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\refint\baitaptuan2_mang_bai2.dll
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.pdb
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\baitaptuan2_mang_bai2.genruntimeconfig.cache
+D:\HocTap\LTHDT\OOP\baitaptuan2_mang_bai2\obj\Debug\net6.0\ref\baitaptuan2_mang_bai2.dll

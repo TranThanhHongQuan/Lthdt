@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bai5678910_ggclass/1.0.0": {
+        "runtime": {
+          "bai5678910_ggclass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai5678910_ggclass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

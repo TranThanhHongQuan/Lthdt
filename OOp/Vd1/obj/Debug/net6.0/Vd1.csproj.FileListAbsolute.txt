@@ -1,0 +1,15 @@
+D:\hoctap\LTHDT\OOP\Vd1\bin\Debug\net6.0\Vd1.exe
+D:\hoctap\LTHDT\OOP\Vd1\bin\Debug\net6.0\Vd1.deps.json
+D:\hoctap\LTHDT\OOP\Vd1\bin\Debug\net6.0\Vd1.runtimeconfig.json
+D:\hoctap\LTHDT\OOP\Vd1\bin\Debug\net6.0\Vd1.dll
+D:\hoctap\LTHDT\OOP\Vd1\bin\Debug\net6.0\Vd1.pdb
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.csproj.AssemblyReference.cache
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.AssemblyInfoInputs.cache
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.AssemblyInfo.cs
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.csproj.CoreCompileInputs.cache
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.dll
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\refint\Vd1.dll
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.pdb
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\Vd1.genruntimeconfig.cache
+D:\hoctap\LTHDT\OOP\Vd1\obj\Debug\net6.0\ref\Vd1.dll

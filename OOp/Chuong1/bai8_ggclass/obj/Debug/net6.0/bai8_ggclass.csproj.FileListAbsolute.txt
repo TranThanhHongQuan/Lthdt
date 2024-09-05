@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\OOP\bai8_ggclass\bin\Debug\net6.0\bai8_ggclass.exe
+D:\HocTap\LTHDT\OOP\bai8_ggclass\bin\Debug\net6.0\bai8_ggclass.deps.json
+D:\HocTap\LTHDT\OOP\bai8_ggclass\bin\Debug\net6.0\bai8_ggclass.runtimeconfig.json
+D:\HocTap\LTHDT\OOP\bai8_ggclass\bin\Debug\net6.0\bai8_ggclass.dll
+D:\HocTap\LTHDT\OOP\bai8_ggclass\bin\Debug\net6.0\bai8_ggclass.pdb
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.AssemblyInfo.cs
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.dll
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\refint\bai8_ggclass.dll
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.pdb
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\bai8_ggclass.genruntimeconfig.cache
+D:\HocTap\LTHDT\OOP\bai8_ggclass\obj\Debug\net6.0\ref\bai8_ggclass.dll

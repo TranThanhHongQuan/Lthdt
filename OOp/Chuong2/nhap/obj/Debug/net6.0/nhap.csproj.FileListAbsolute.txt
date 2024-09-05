@@ -1,0 +1,5 @@
+D:\HocTap\LTHDT\OOP\nhap\obj\Debug\net6.0\nhap.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\OOP\nhap\obj\Debug\net6.0\nhap.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\OOP\nhap\obj\Debug\net6.0\nhap.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\OOP\nhap\obj\Debug\net6.0\nhap.AssemblyInfo.cs
+D:\HocTap\LTHDT\OOP\nhap\obj\Debug\net6.0\nhap.csproj.CoreCompileInputs.cache

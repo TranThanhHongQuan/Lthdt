@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.AssemblyInfo.cs
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\OOP\baitoandemso\bin\Debug\net6.0\baitoandemso.exe
+D:\HocTap\LTHDT\OOP\baitoandemso\bin\Debug\net6.0\baitoandemso.deps.json
+D:\HocTap\LTHDT\OOP\baitoandemso\bin\Debug\net6.0\baitoandemso.runtimeconfig.json
+D:\HocTap\LTHDT\OOP\baitoandemso\bin\Debug\net6.0\baitoandemso.dll
+D:\HocTap\LTHDT\OOP\baitoandemso\bin\Debug\net6.0\baitoandemso.pdb
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.dll
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\refint\baitoandemso.dll
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.pdb
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\baitoandemso.genruntimeconfig.cache
+D:\HocTap\LTHDT\OOP\baitoandemso\obj\Debug\net6.0\ref\baitoandemso.dll
