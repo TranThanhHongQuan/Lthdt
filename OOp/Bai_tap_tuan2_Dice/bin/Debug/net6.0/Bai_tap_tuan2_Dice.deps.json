@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bai_tap_tuan2_Dice/1.0.0": {
+        "runtime": {
+          "Bai_tap_tuan2_Dice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_tap_tuan2_Dice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

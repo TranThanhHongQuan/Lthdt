@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\bin\Debug\net6.0\Bai_tap_tuan2_Dice.exe
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\bin\Debug\net6.0\Bai_tap_tuan2_Dice.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\bin\Debug\net6.0\Bai_tap_tuan2_Dice.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\bin\Debug\net6.0\Bai_tap_tuan2_Dice.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\bin\Debug\net6.0\Bai_tap_tuan2_Dice.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\refint\Bai_tap_tuan2_Dice.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\Bai_tap_tuan2_Dice.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_Dice\obj\Debug\net6.0\ref\Bai_tap_tuan2_Dice.dll

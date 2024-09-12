@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\bin\Debug\net6.0\Bai_tap_tuan2_MFCInC.exe
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\bin\Debug\net6.0\Bai_tap_tuan2_MFCInC.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\bin\Debug\net6.0\Bai_tap_tuan2_MFCInC.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\bin\Debug\net6.0\Bai_tap_tuan2_MFCInC.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\bin\Debug\net6.0\Bai_tap_tuan2_MFCInC.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\refint\Bai_tap_tuan2_MFCInC.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\Bai_tap_tuan2_MFCInC.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Bai_tap_tuan2_MFCInC\obj\Debug\net6.0\ref\Bai_tap_tuan2_MFCInC.dll
