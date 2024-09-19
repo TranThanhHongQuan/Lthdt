@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\bin\Debug\net6.0\demoSinhVien.exe
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\bin\Debug\net6.0\demoSinhVien.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\bin\Debug\net6.0\demoSinhVien.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\bin\Debug\net6.0\demoSinhVien.dll
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\bin\Debug\net6.0\demoSinhVien.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.dll
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\refint\demoSinhVien.dll
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\demoSinhVien.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\demoSinhVien\obj\Debug\net6.0\ref\demoSinhVien.dll
