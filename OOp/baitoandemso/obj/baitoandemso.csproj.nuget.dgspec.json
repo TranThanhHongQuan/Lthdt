@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\LTHDT\\OOP\\baitoandemso\\baitoandemso.csproj": {}
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\baitoandemso\\baitoandemso.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\LTHDT\\OOP\\baitoandemso\\baitoandemso.csproj": {
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\baitoandemso\\baitoandemso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\LTHDT\\OOP\\baitoandemso\\baitoandemso.csproj",
+        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\baitoandemso\\baitoandemso.csproj",
         "projectName": "baitoandemso",
-        "projectPath": "D:\\HocTap\\LTHDT\\OOP\\baitoandemso\\baitoandemso.csproj",
+        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\baitoandemso\\baitoandemso.csproj",
         "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\LTHDT\\OOP\\baitoandemso\\obj\\",
+        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\baitoandemso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

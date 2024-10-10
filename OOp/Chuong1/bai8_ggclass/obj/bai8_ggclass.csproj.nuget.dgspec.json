@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\LTHDT\\OOP\\bai8_ggclass\\bai8_ggclass.csproj": {}
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai8_ggclass\\bai8_ggclass.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\LTHDT\\OOP\\bai8_ggclass\\bai8_ggclass.csproj": {
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai8_ggclass\\bai8_ggclass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\LTHDT\\OOP\\bai8_ggclass\\bai8_ggclass.csproj",
+        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai8_ggclass\\bai8_ggclass.csproj",
         "projectName": "bai8_ggclass",
-        "projectPath": "D:\\HocTap\\LTHDT\\OOP\\bai8_ggclass\\bai8_ggclass.csproj",
+        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai8_ggclass\\bai8_ggclass.csproj",
         "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\LTHDT\\OOP\\bai8_ggclass\\obj\\",
+        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai8_ggclass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

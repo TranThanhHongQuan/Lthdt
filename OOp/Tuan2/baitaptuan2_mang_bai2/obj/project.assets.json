@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocTap\\LTHDT\\oop\\baitaptuan2_mang_bai2\\baitaptuan2_mang_bai2.csproj",
+      "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai2\\baitaptuan2_mang_bai2.csproj",
       "projectName": "baitaptuan2_mang_bai2",
-      "projectPath": "D:\\HocTap\\LTHDT\\oop\\baitaptuan2_mang_bai2\\baitaptuan2_mang_bai2.csproj",
+      "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai2\\baitaptuan2_mang_bai2.csproj",
       "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\HocTap\\LTHDT\\oop\\baitaptuan2_mang_bai2\\obj\\",
+      "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

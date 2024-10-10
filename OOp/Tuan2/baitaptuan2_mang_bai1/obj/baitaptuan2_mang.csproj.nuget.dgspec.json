@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\LTHDT\\OOP\\baitaptuan2_mang\\baitaptuan2_mang.csproj": {}
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai1\\baitaptuan2_mang.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\LTHDT\\OOP\\baitaptuan2_mang\\baitaptuan2_mang.csproj": {
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai1\\baitaptuan2_mang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\LTHDT\\OOP\\baitaptuan2_mang\\baitaptuan2_mang.csproj",
+        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai1\\baitaptuan2_mang.csproj",
         "projectName": "baitaptuan2_mang",
-        "projectPath": "D:\\HocTap\\LTHDT\\OOP\\baitaptuan2_mang\\baitaptuan2_mang.csproj",
+        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai1\\baitaptuan2_mang.csproj",
         "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\LTHDT\\OOP\\baitaptuan2_mang\\obj\\",
+        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan2\\baitaptuan2_mang_bai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

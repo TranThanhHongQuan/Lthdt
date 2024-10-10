@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Bai_tap_tuan2_Dice\\Bai_tap_tuan2_Dice.csproj": {}
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan3\\Dice\\Bai_tap_tuan2_Dice.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Bai_tap_tuan2_Dice\\Bai_tap_tuan2_Dice.csproj": {
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan3\\Dice\\Bai_tap_tuan2_Dice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Bai_tap_tuan2_Dice\\Bai_tap_tuan2_Dice.csproj",
+        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan3\\Dice\\Bai_tap_tuan2_Dice.csproj",
         "projectName": "Bai_tap_tuan2_Dice",
-        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Bai_tap_tuan2_Dice\\Bai_tap_tuan2_Dice.csproj",
+        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan3\\Dice\\Bai_tap_tuan2_Dice.csproj",
         "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Bai_tap_tuan2_Dice\\obj\\",
+        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Tuan3\\Dice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

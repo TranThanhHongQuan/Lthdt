@@ -1,0 +1,15 @@
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.csproj.AssemblyReference.cache
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.AssemblyInfoInputs.cache
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.AssemblyInfo.cs
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.csproj.CoreCompileInputs.cache
+D:\LTHDT\chuong4bai4\bin\Debug\net6.0\chuong4bai4.exe
+D:\LTHDT\chuong4bai4\bin\Debug\net6.0\chuong4bai4.deps.json
+D:\LTHDT\chuong4bai4\bin\Debug\net6.0\chuong4bai4.runtimeconfig.json
+D:\LTHDT\chuong4bai4\bin\Debug\net6.0\chuong4bai4.dll
+D:\LTHDT\chuong4bai4\bin\Debug\net6.0\chuong4bai4.pdb
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.dll
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\refint\chuong4bai4.dll
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.pdb
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\chuong4bai4.genruntimeconfig.cache
+D:\LTHDT\chuong4bai4\obj\Debug\net6.0\ref\chuong4bai4.dll

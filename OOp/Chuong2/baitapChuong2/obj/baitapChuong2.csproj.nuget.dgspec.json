@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\LTHDT\\oop\\baitapChuong2\\baitapChuong2.csproj": {}
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong2\\baitapChuong2\\baitapChuong2.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\LTHDT\\oop\\baitapChuong2\\baitapChuong2.csproj": {
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong2\\baitapChuong2\\baitapChuong2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\LTHDT\\oop\\baitapChuong2\\baitapChuong2.csproj",
+        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong2\\baitapChuong2\\baitapChuong2.csproj",
         "projectName": "baitapChuong2",
-        "projectPath": "D:\\HocTap\\LTHDT\\oop\\baitapChuong2\\baitapChuong2.csproj",
+        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong2\\baitapChuong2\\baitapChuong2.csproj",
         "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\LTHDT\\oop\\baitapChuong2\\obj\\",
+        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong2\\baitapChuong2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocTap\\LTHDT\\OOP\\bai7_ggclass\\bai7_ggclass.csproj",
+      "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai7_ggclass\\bai7_ggclass.csproj",
       "projectName": "bai7_ggclass",
-      "projectPath": "D:\\HocTap\\LTHDT\\OOP\\bai7_ggclass\\bai7_ggclass.csproj",
+      "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai7_ggclass\\bai7_ggclass.csproj",
       "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\HocTap\\LTHDT\\OOP\\bai7_ggclass\\obj\\",
+      "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong1\\bai7_ggclass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

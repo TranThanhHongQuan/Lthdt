@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\bin\Debug\net6.0\bai_ktra.exe
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\bin\Debug\net6.0\bai_ktra.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\bin\Debug\net6.0\bai_ktra.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\bin\Debug\net6.0\bai_ktra.dll
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\bin\Debug\net6.0\bai_ktra.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.dll
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\refint\bai_ktra.dll
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\bai_ktra.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\bai_ktra\obj\Debug\net6.0\ref\bai_ktra.dll
