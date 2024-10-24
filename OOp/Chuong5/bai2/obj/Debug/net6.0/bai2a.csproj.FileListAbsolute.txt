@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\bin\Debug\net6.0\bai2a.exe
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\bin\Debug\net6.0\bai2a.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\bin\Debug\net6.0\bai2a.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\bin\Debug\net6.0\bai2a.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\bin\Debug\net6.0\bai2a.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\refint\bai2a.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\bai2a.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong5\bai2a\obj\Debug\net6.0\ref\bai2a.dll

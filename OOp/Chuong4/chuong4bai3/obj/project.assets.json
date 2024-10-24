@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LTHDT\\chuong4bai3\\chuong4bai3.csproj",
+      "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai3\\chuong4bai3.csproj",
       "projectName": "chuong4bai3",
-      "projectPath": "D:\\LTHDT\\chuong4bai3\\chuong4bai3.csproj",
+      "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai3\\chuong4bai3.csproj",
       "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-      "outputPath": "D:\\LTHDT\\chuong4bai3\\obj\\",
+      "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

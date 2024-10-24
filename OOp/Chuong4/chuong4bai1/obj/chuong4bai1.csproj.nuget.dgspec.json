@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\LTHDT\\Nam dau\\lthdtCoThao\\chuong4bai1\\chuong4bai1.csproj": {}
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai1\\chuong4bai1.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\LTHDT\\Nam dau\\lthdtCoThao\\chuong4bai1\\chuong4bai1.csproj": {
+    "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai1\\chuong4bai1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\LTHDT\\Nam dau\\lthdtCoThao\\chuong4bai1\\chuong4bai1.csproj",
+        "projectUniqueName": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai1\\chuong4bai1.csproj",
         "projectName": "chuong4bai1",
-        "projectPath": "D:\\HocTap\\LTHDT\\Nam dau\\lthdtCoThao\\chuong4bai1\\chuong4bai1.csproj",
+        "projectPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai1\\chuong4bai1.csproj",
         "packagesPath": "C:\\Users\\QUAN\\.nuget\\packages\\",
-        "outputPath": "D:\\HocTap\\LTHDT\\Nam dau\\lthdtCoThao\\chuong4bai1\\obj\\",
+        "outputPath": "D:\\HocTap\\LTHDT\\Lthdt\\OOp\\Chuong4\\chuong4bai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUAN\\AppData\\Roaming\\NuGet\\NuGet.Config"

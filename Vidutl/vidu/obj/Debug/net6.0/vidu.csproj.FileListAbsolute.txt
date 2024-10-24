@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\bin\Debug\net6.0\vidu.exe
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\bin\Debug\net6.0\vidu.deps.json
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\bin\Debug\net6.0\vidu.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\bin\Debug\net6.0\vidu.dll
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\bin\Debug\net6.0\vidu.pdb
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.dll
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\refint\vidu.dll
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.pdb
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\vidu.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\Vidutl\vidu\obj\Debug\net6.0\ref\vidu.dll
