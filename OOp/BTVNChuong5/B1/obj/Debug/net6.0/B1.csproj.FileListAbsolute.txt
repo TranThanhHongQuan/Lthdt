@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\bin\Debug\net6.0\B1.exe
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\bin\Debug\net6.0\B1.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\bin\Debug\net6.0\B1.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\bin\Debug\net6.0\B1.dll
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\bin\Debug\net6.0\B1.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.dll
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\refint\B1.dll
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\B1.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BTVNChuong5\B1\obj\Debug\net6.0\ref\B1.dll
