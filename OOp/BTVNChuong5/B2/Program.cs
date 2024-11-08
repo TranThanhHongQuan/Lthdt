@@ -13,7 +13,7 @@ class Zoo
         }
         public Animal(){}
         public virtual void Nhap(){
-            System.Console.WriteLine("Nhap ten dong vat");
+            System.Console.WriteLine("Nhập Tên động vật");
             Name = Console.ReadLine();
             System.Console.WriteLine("Nhap tuoi dong vat");
             Age = int.Parse(Console.ReadLine());
@@ -102,6 +102,7 @@ class Zoo
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
             Animal dv1 = new Animal();
             dv1.Nhap();
             dv1.In();

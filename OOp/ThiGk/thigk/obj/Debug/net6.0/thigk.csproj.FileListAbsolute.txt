@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\bin\Debug\net6.0\thigk.exe
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\bin\Debug\net6.0\thigk.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\bin\Debug\net6.0\thigk.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\bin\Debug\net6.0\thigk.dll
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\bin\Debug\net6.0\thigk.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.dll
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\refint\thigk.dll
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\thigk.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\ThiGk\thigk\obj\Debug\net6.0\ref\thigk.dll

@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.exe
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\bin\Debug\net6.0\AbstractionDemo.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\refint\AbstractionDemo.dll
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\AbstractionDemo.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\Chuong6\AbstractionDemo\obj\Debug\net6.0\ref\AbstractionDemo.dll
