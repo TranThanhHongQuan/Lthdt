@@ -30,6 +30,9 @@ class Program
     {
         Console.OutputEncoding=System.Text.Encoding.Unicode;
         SinhVien sv1 = new SinhVien();
+        List<SinhVien> dsSinhVien = new List<SinhVien>();
+        dsSinhVien.Add(sv1);
+        
         sv1.Nhap();
         sv1.Xuat();
     }

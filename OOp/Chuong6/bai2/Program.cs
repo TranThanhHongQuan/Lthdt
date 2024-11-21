@@ -6,6 +6,7 @@ public interface maymoc
     void Bat();
     void Tat();
 }
+
 public class MayQuat : maymoc
 {
     public bool DangBat { get; set; }
