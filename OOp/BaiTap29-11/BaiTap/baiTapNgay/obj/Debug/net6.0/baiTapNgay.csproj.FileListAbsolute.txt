@@ -1,0 +1,15 @@
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.csproj.AssemblyReference.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.AssemblyInfoInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.AssemblyInfo.cs
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.csproj.CoreCompileInputs.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\bin\Debug\net6.0\baiTapNgay.exe
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\bin\Debug\net6.0\baiTapNgay.deps.json
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\bin\Debug\net6.0\baiTapNgay.runtimeconfig.json
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\bin\Debug\net6.0\baiTapNgay.dll
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\bin\Debug\net6.0\baiTapNgay.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.dll
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\refint\baiTapNgay.dll
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.pdb
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\baiTapNgay.genruntimeconfig.cache
+D:\HocTap\LTHDT\Lthdt\OOp\BaiTap29-11\BaiTap\baiTapNgay\obj\Debug\net6.0\ref\baiTapNgay.dll
